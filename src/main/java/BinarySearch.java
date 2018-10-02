@@ -23,6 +23,7 @@ public class BinarySearch {
         return midIdx;
     }
     return -1;
+
   }
 
   public static void main(String[] args) throws IOException {
